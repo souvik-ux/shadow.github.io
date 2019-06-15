@@ -1,0 +1,30 @@
+<html>
+<head>
+<title></title>
+
+</head>
+<body>
+
+
+
+<img src="bg_6.jpg"  height="200px"  width="1500px" alt=""/>
+
+<table align="center" cellpadding="8" cellspacing="10" bgcolor="#e6fff2" style="margin-top: 75px;">
+	<form action="register_process.php" method="post">
+
+<form>
+Name:-<input type="id" name=""><br>
+Email:- <input type="email" name=""><br>
+Password<input type="password" name=""><br>
+Phone:-<input type="number" name=""><br>
+address:-<input type="address" name=""><br>
+
+<td colspan="20" align="center"   cellpadding="20" cellspacing="20" bgcolor="#e6fff2" style="margin-top: 75px;">
+
+<input type="submit"value="register">
+</form>
+<img src="bg_6.jpg"  height="400px"  width="1500px" alt=""/>
+
+
+</body>
+</html>

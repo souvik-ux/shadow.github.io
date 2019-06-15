@@ -1,0 +1,62 @@
+  header{
+  height: 40px;
+  width: auto;
+  background-color:gray;
+  border-radius:10px;
+}
+body{
+  background-image: url(bg_4.jpg);
+  background-size: 750%;                    
+    background-repeat:   no-repeat;
+    background-position: center;
+    
+}
+header li{
+  display: inline-block;
+  margin: 10px;
+}
+header a{
+  text-decoration: none;
+  color: white;
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  background-color:gray;
+  border-radius: 20px;
+}
+.card{
+  height: auto;
+  width: 400px;
+  float: left;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+input[type="text"],input[type="password"],input[type="email"],input[type="number"],input[type="address"],input [type="subject"]{
+  height: 25px;
+  width: 300px;
+  border: lid #ccc;
+  border-radius: 1x;
+  background-color:white;
+
+}
+input [type="submit"]{
+  height: 45px;
+  color: pink;
+}
+input[type="submit"]:hover{
+  background-color: #00e600;
+}
+input [type="order"]{
+  height: 45px;
+  width: 100px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  background-color: #008000;
+  color: pink;
+}
+input[type="submit"]:hover{
+  background-color:;
+}
